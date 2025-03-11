@@ -4,10 +4,10 @@
 The War Card Game is a simple two-player game where the player competes against the CPU. Each turn, both the player and the CPU reveal a card. The player with the higher card earns a point. The game continues until one player reaches 15 points, at which point they are declared the winner.
 
 ## Features
-*Simple player vs. CPU gameplay
-*Randomized deck shuffling
-*Score-based victory condition (first to 15 points wins)
-*SwiftUI-based interface for easy interaction
+* Simple player vs. CPU gameplay
+* Randomized deck shuffling
+* Score-based victory condition (first to 15 points wins)
+* SwiftUI-based interface for easy interaction
 
 ## How to Play
 1. Run the app on an iOS simulator.
@@ -24,8 +24,8 @@ git clone https://github.com/dvdkang/War-Card-Game.git
 Open project in Xcode.
 
 ## Future Improvements
-*Add animations for card reveals
-*Implement sound effects for gameplay feedback
+* Add animations for card reveals
+* Implement sound effects for gameplay feedback
 
 ## Author 
 David Kang
